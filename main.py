@@ -252,9 +252,12 @@ def Conversions(Convserion_Units, csv_path):
         
         unit_1 = Convserion_Units[choice_1]
         unit_2 = Convserion_Units[choice_2]
-    
-        converting_process(unit_1, unit_2, csv_path)
         
+        if Convserion_Units == Temperature_Units:
+            Temperature_Conversion(unit_1, unit_2)
+        else:
+            converting_process(unit_1, unit_2, csv_path)
+            
         choice = input("Would you like to do another conversion or try another category (y/n/o): ").lower()
         if choice == 'y':
             continue
@@ -264,6 +267,23 @@ def Conversions(Convserion_Units, csv_path):
         else:
             break     
 
+def Temperature_Conversion(unit_1, unit_2):
+    input_value = float(input(f"Enter the temperature value you want to convert from {unit_1} to {unit_2}: "))
+    
+    conversion_functions = {
+        ("Degree Celsius", "Fahrenheit"): lambda x: (x * 9/5) + 32,
+        ("Degree Celsius", "Kelvin"): lambda x: x + 273.15,
+        ("Fahrenheit", "Degree Celsius"): lambda x: (x - 32) * 5/9,
+        ("Fahrenheit", "Kelvin"): lambda x: (x - 32) * 5/9 + 273.15,
+        ("Kelvin", "Degree Celsius"): lambda x: x - 273.15,
+        ("Kelvin", "Fahrenheit"): lambda x: (x - 273.15) * 9/5 + 32,
+    }
+    
+    conversion_function = conversion_functions.get((unit_1, unit_2))
+    
+    converted_input = conversion_function(input_value)
+    print(f"{input_value} {unit_1} is equal to {converted_input} {unit_2}")
+    
 def converting_process(unit_1, unit_2, csv_path):
     conversions = pd.read_csv(csv_path)
         
