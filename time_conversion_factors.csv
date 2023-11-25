@@ -1,0 +1,133 @@
+unit_from,unit_to,factor
+Nanosecond,Microsecond,0.001
+Nanosecond,Millisecond,1.00E-06
+Nanosecond,Second,1.00E-09
+Nanosecond,Minute,1.67E-11
+Nanosecond,Hour,2.78E-13
+Nanosecond,Day,1.16E-14
+Nanosecond,Week,1.65E-15
+Nanosecond,Month,3.80E-17
+Nanosecond,Calendar year,3.17E-20
+Nanosecond,Decade,3.17E-21
+Nanosecond,Century,3.17E-22
+Microsecond,Nanosecond,1000
+Microsecond,Millisecond,0.001
+Microsecond,Second,1.00E-06
+Microsecond,Minute,1.67E-08
+Microsecond,Hour,2.78E-10
+Microsecond,Day,1.16E-11
+Microsecond,Week,1.65E-12
+Microsecond,Month,3.80E-14
+Microsecond,Calendar year,3.17E-17
+Microsecond,Decade,3.17E-18
+Microsecond,Century,3.17E-19
+Millisecond,Nanosecond,1.00E+06
+Millisecond,Microsecond,1000
+Millisecond,Second,0.001
+Millisecond,Minute,1.67E-05
+Millisecond,Hour,2.78E-07
+Millisecond,Day,1.16E-08
+Millisecond,Week,1.65E-09
+Millisecond,Month,3.80E-11
+Millisecond,Calendar year,3.17E-14
+Millisecond,Decade,3.17E-15
+Millisecond,Century,3.17E-16
+Second,Nanosecond,1.00E+09
+Second,Microsecond,1.00E+06
+Second,Millisecond,1000
+Second,Minute,0.0166667
+Second,Hour,0.000277778
+Second,Day,1.16E-05
+Second,Week,1.65E-06
+Second,Month,3.80E-08
+Second,Calendar year,3.17E-11
+Second,Decade,3.17E-12
+Second,Century,3.17E-13
+Minute,Nanosecond,6.00E+10
+Minute,Microsecond,6.00E+07
+Minute,Millisecond,60000
+Minute,Second,60
+Minute,Hour,0.0166667
+Minute,Day,0.000694444
+Minute,Week,9.92E-05
+Minute,Month,2.28E-06
+Minute,Calendar year,1.90E-09
+Minute,Decade,1.90E-10
+Minute,Century,1.90E-11
+Hour,Nanosecond,3.60E+12
+Hour,Microsecond,3.60E+09
+Hour,Millisecond,3.60E+06
+Hour,Second,3600
+Hour,Minute,60
+Hour,Day,0.0416667
+Hour,Week,0.00595238
+Hour,Month,1.37E-04
+Hour,Calendar year,1.14E-07
+Hour,Decade,1.14E-08
+Hour,Century,1.14E-09
+Day,Nanosecond,8.64E+13
+Day,Microsecond,8.64E+10
+Day,Millisecond,8.64E+07
+Day,Second,86400
+Day,Minute,1440
+Day,Hour,24
+Day,Week,0.142857
+Day,Month,0.00333333
+Day,Calendar year,2.63E-06
+Day,Decade,2.63E-07
+Day,Century,2.63E-08
+Week,Nanosecond,6.05E+14
+Week,Microsecond,6.05E+11
+Week,Millisecond,6.05E+08
+Week,Second,604800
+Week,Minute,10080
+Week,Hour,168
+Week,Day,7
+Week,Month,0.0238095
+Week,Calendar year,1.97E-05
+Week,Decade,1.97E-06
+Week,Century,1.97E-07
+Month,Nanosecond,2.63E+16
+Month,Microsecond,2.63E+13
+Month,Millisecond,2.63E+10
+Month,Second,2.63E+07
+Month,Minute,438290
+Month,Hour,7304.83
+Month,Day,30.4368
+Month,Week,4.34526
+Month,Calendar year,0.000821917
+Month,Decade,8.22E-05
+Month,Century,8.22E-06
+Calendar year,Nanosecond,3.15E+17
+Calendar year,Microsecond,3.15E+14
+Calendar year,Millisecond,3.15E+11
+Calendar year,Second,3.15E+08
+Calendar year,Minute,5.26E+06
+Calendar year,Hour,87600
+Calendar year,Day,365
+Calendar year,Week,52.1429
+Calendar year,Month,12
+Calendar year,Decade,0.1
+Calendar year,Century,0.01
+Decade,Nanosecond,3.15E+18
+Decade,Microsecond,3.15E+15
+Decade,Millisecond,3.15E+12
+Decade,Second,3.15E+09
+Decade,Minute,5.26E+07
+Decade,Hour,876000
+Decade,Day,3650
+Decade,Week,521.429
+Decade,Month,120
+Decade,Calendar year,10
+Decade,Century,0.1
+Century,Nanosecond,3.15E+19
+Century,Microsecond,3.15E+16
+Century,Millisecond,3.15E+13
+Century,Second,3.15E+10
+Century,Minute,5.26E+08
+Century,Hour,8760000
+Century,Day,36500
+Century,Week,5214.29
+Century,Month,1200
+Century,Calendar year,100
+Century,Decade,10

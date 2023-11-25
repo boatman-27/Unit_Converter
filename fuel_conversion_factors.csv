@@ -1,0 +1,13 @@
+unit_from,unit_to,factor
+Miles per gallon,Miles per gallon (Imperial),1.20095
+Miles per gallon,Kilometer per liter,0.425144
+Miles per gallon,Liter per 100 kilometers,235.215
+Miles per gallon (Imperial),Miles per gallon,0.832674
+Miles per gallon (Imperial),Kilometer per liter,0.354006
+Miles per gallon (Imperial),Liter per 100 kilometers,282.481
+Kilometer per liter,Miles per gallon,2.35215
+Kilometer per liter,Miles per gallon (Imperial),2.82481
+Kilometer per liter,Liter per 100 kilometers,100
+Liter per 100 kilometers,Miles per gallon,0.00425
+Liter per 100 kilometers,Miles per gallon (Imperial),0.00354
+Liter per 100 kilometers,Kilometer per liter,0.01

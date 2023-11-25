@@ -1,0 +1,91 @@
+unit_from,unit_to,factor
+Joule,Kilojoule,0.001
+Joule,Gram calorie,0.239006
+Joule,Kilocalorie,0.000239006
+Joule,Watt hour,0.000277778
+Joule,Kilowatt hour,2.78E-07
+Joule,Electronvolt,6.24E+18
+Joule,British thermal unit,0.000947817
+Joule,US therm,9.48E-09
+Joule,Foot-pound,0.737562
+Kilojoule,Joule,1000
+Kilojoule,Gram calorie,239.006
+Kilojoule,Kilocalorie,0.239006
+Kilojoule,Watt hour,0.277778
+Kilojoule,Kilowatt hour,0.000277778
+Kilojoule,Electronvolt,6.24E+21
+Kilojoule,British thermal unit,0.947817
+Kilojoule,US therm,9.48E-06
+Kilojoule,Foot-pound,737.562
+Gram calorie,Joule,4.184
+Gram calorie,Kilojoule,0.004184
+Gram calorie,Kilocalorie,0.001
+Gram calorie,Watt hour,0.00116222
+Gram calorie,Kilowatt hour,1.16E-06
+Gram calorie,Electronvolt,2.61E+19
+Gram calorie,British thermal unit,0.000252164
+Gram calorie,US therm,2.52E-09
+Gram calorie,Foot-pound,3.08802
+Kilocalorie,Joule,4184
+Kilocalorie,Kilojoule,4.184
+Kilocalorie,Gram calorie,1000
+Kilocalorie,Watt hour,1.16222
+Kilocalorie,Kilowatt hour,0.00116222
+Kilocalorie,Electronvolt,2.61E+22
+Kilocalorie,British thermal unit,3.96832
+Kilocalorie,US therm,3.97E-06
+Kilocalorie,Foot-pound,3088.02
+Watt hour,Joule,3600
+Watt hour,Kilojoule,3.6
+Watt hour,Gram calorie,860.421
+Watt hour,Kilocalorie,0.860421
+Watt hour,Kilowatt hour,0.001
+Watt hour,Electronvolt,2.25E+18
+Watt hour,British thermal unit,3.41214
+Watt hour,US therm,3.41E-05
+Watt hour,Foot-pound,2655.22
+Kilowatt hour,Joule,3.60E+06
+Kilowatt hour,Kilojoule,3600
+Kilowatt hour,Gram calorie,860421
+Kilowatt hour,Kilocalorie,860.421
+Kilowatt hour,Watt hour,1000
+Kilowatt hour,Electronvolt,2.25E+21
+Kilowatt hour,British thermal unit,3412.14
+Kilowatt hour,US therm,0.0341214
+Kilowatt hour,Foot-pound,2655220
+Electronvolt,Joule,1.60E-19
+Electronvolt,Kilojoule,1.60E-22
+Electronvolt,Gram calorie,3.83E-20
+Electronvolt,Kilocalorie,3.83E-23
+Electronvolt,Watt hour,4.45E-23
+Electronvolt,Kilowatt hour,4.45E-26
+Electronvolt,British thermal unit,3.83E-23
+Electronvolt,US therm,3.83E-32
+Electronvolt,Foot-pound,1.18E-19
+British thermal unit,Joule,1055.06
+British thermal unit,Kilojoule,1.05506
+British thermal unit,Gram calorie,252.164
+British thermal unit,Kilocalorie,0.252164
+British thermal unit,Watt hour,0.000293071
+British thermal unit,Kilowatt hour,2.93E-07
+British thermal unit,Electronvolt,2.61E+22
+British thermal unit,US therm,9.48E-09
+British thermal unit,Foot-pound,778.169
+US therm,Joule,105505590
+US therm,Kilojoule,105505.59
+US therm,Gram calorie,25199.8
+US therm,Kilocalorie,25.1998
+US therm,Watt hour,29.3001
+US therm,Kilowatt hour,0.0293001
+US therm,Electronvolt,2.61E+25
+US therm,British thermal unit,99976.1
+US therm,Foot-pound,77763.8
+Foot-pound,Joule,1.35582
+Foot-pound,Kilojoule,0.00135582
+Foot-pound,Gram calorie,0.324048
+Foot-pound,Kilocalorie,0.000324048
+Foot-pound,Watt hour,0.000376616
+Foot-pound,Kilowatt hour,3.77E-07
+Foot-pound,Electronvolt,8.46E+18
+Foot-pound,British thermal unit,0.00128507
+Foot-pound,US therm,1.29E-08

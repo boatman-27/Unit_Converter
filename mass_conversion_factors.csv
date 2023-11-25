@@ -1,0 +1,91 @@
+unit_from,unit_to,factor
+Tonne,Kilogram,1000
+Tonne,Gram,1.00E+06
+Tonne,Milligram,1.00E+09
+Tonne,Microgram,1.00E+12
+Tonne,Imperial ton,0.984207
+Tonne,US ton,1.10231
+Tonne,Stone,157.473
+Tonne,Pound,2204.62
+Tonne,Ounce,35274
+Kilogram,Tonne,0.001
+Kilogram,Gram,1000
+Kilogram,Milligram,1.00E+06
+Kilogram,Microgram,1.00E+09
+Kilogram,Imperial ton,0.000984207
+Kilogram,US ton,0.00110231
+Kilogram,Stone,0.157473
+Kilogram,Pound,2.20462
+Kilogram,Ounce,35.274
+Gram,Tonne,1.00E-06
+Gram,Kilogram,0.001
+Gram,Milligram,1000
+Gram,Microgram,1.00E+06
+Gram,Imperial ton,9.84E-07
+Gram,US ton,1.10E-06
+Gram,Stone,0.000157473
+Gram,Pound,0.00220462
+Gram,Ounce,0.035274
+Milligram,Tonne,1.00E-09
+Milligram,Kilogram,1.00E-06
+Milligram,Gram,0.001
+Milligram,Microgram,1000
+Milligram,Imperial ton,9.84E-10
+Milligram,US ton,1.10E-09
+Milligram,Stone,1.57E-07
+Milligram,Pound,2.20E-06
+Milligram,Ounce,3.53E-05
+Microgram,Tonne,1.00E-12
+Microgram,Kilogram,1.00E-09
+Microgram,Gram,1.00E-06
+Microgram,Milligram,0.001
+Microgram,Imperial ton,9.84E-13
+Microgram,US ton,1.10E-12
+Microgram,Stone,1.57E-10
+Microgram,Pound,2.20E-09
+Microgram,Ounce,3.53E-08
+Imperial ton,Tonne,1.01605
+Imperial ton,Kilogram,1016.05
+Imperial ton,Gram,1.02E+06
+Imperial ton,Milligram,1.02E+09
+Imperial ton,Microgram,1.02E+12
+Imperial ton,US ton,1.12
+Imperial ton,Stone,160
+Imperial ton,Pound,2240
+Imperial ton,Ounce,35840
+US ton,Tonne,0.907185
+US ton,Kilogram,907.185
+US ton,Gram,907185
+US ton,Milligram,9.07E+08
+US ton,Microgram,9.07E+11
+US ton,Imperial ton,0.892857
+US ton,Stone,142.857
+US ton,Pound,2000
+US ton,Ounce,32000
+Stone,Tonne,0.00635029
+Stone,Kilogram,6.35029
+Stone,Gram,6350.29
+Stone,Milligram,6.35E+06
+Stone,Microgram,6.35E+09
+Stone,Imperial ton,0.00635029
+Stone,US ton,0.007
+Stone,Pound,14
+Stone,Ounce,224
+Pound,Tonne,0.000453592
+Pound,Kilogram,0.453592
+Pound,Gram,453.592
+Pound,Milligram,453592
+Pound,Microgram,453592000
+Pound,Imperial ton,0.000446429
+Pound,US ton,0.0005
+Pound,Stone,0.0714286
+Pound,Ounce,16
+Ounce,Tonne,2.83E-05
+Ounce,Kilogram,0.0283495
+Ounce,Gram,28.3495
+Ounce,Milligram,28349.5
+Ounce,Microgram,28349500
+Ounce,Imperial ton,2.79E-05
+Ounce,US ton,3.13E-05
+Ounce,Stone,0.00446429
+Ounce,Pound,0.0625

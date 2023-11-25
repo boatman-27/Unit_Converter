@@ -1,0 +1,111 @@
+unit_from,unit_to,factor
+Kilometer,Meter,1000
+Kilometer,Centimeter,100000
+Kilometer,Millimeter,1.00E+06
+Kilometer,Micrometer,1.00E+09
+Kilometer,Nanometer,1.00E+12
+Kilometer,Mile,0.621371
+Kilometer,Yard,1094
+Kilometer,Foot,3281
+Kilometer,Inch,39370.1
+Kilometer,Nautical mile,0.539957
+Meter,Kilometer,0.001
+Meter,Centimeter,100
+Meter,Millimeter,1000
+Meter,Micrometer,1.00E+06
+Meter,Nanometer,1.00E+09
+Meter,Mile,0.000621371
+Meter,Yard,1.09361
+Meter,Foot,3.28084
+Meter,Inch,39.3701
+Meter,Nautical mile,0.000539957
+Centimeter,Kilometer,1.00E-05
+Centimeter,Meter,0.01
+Centimeter,Millimeter,10
+Centimeter,Micrometer,10000
+Centimeter,Nanometer,1.00E+07
+Centimeter,Mile,6.21E-06
+Centimeter,Yard,0.0109361
+Centimeter,Foot,0.0328084
+Centimeter,Inch,0.393701
+Centimeter,Nautical mile,5.40E-06
+Millimeter,Kilometer,1.00E-06
+Millimeter,Meter,0.001
+Millimeter,Centimeter,0.1
+Millimeter,Micrometer,1000
+Millimeter,Nanometer,1.00E+06
+Millimeter,Mile,6.21E-07
+Millimeter,Yard,0.00109361
+Millimeter,Foot,0.00328084
+Millimeter,Inch,0.0393701
+Millimeter,Nautical mile,5.40E-07
+Micrometer,Kilometer,1.00E-09
+Micrometer,Meter,1.00E-06
+Micrometer,Centimeter,0.0001
+Micrometer,Millimeter,0.001
+Micrometer,Nanometer,1000
+Micrometer,Mile,6.21E-10
+Micrometer,Yard,1.09E-06
+Micrometer,Foot,3.28E-06
+Micrometer,Inch,3.94E-05
+Micrometer,Nautical mile,5.40E-10
+Nanometer,Kilometer,1.00E-12
+Nanometer,Meter,1.00E-09
+Nanometer,Centimeter,1.00E-07
+Nanometer,Millimeter,1.00E-06
+Nanometer,Micrometer,0.001
+Nanometer,Mile,6.21E-13
+Nanometer,Yard,1.09E-09
+Nanometer,Foot,3.28E-09
+Nanometer,Inch,3.94E-08
+Nanometer,Nautical mile,5.40E-13
+Mile,Kilometer,1.60934
+Mile,Meter,1609.34
+Mile,Centimeter,160934
+Mile,Millimeter,1.61E+06
+Mile,Micrometer,1.61E+09
+Mile,Nanometer,1.61E+12
+Mile,Yard,1760
+Mile,Foot,5280
+Mile,Inch,63360
+Mile,Nautical mile,0.868976
+Yard,Kilometer,0.0009144
+Yard,Meter,0.9144
+Yard,Centimeter,91.44
+Yard,Millimeter,914.4
+Yard,Micrometer,914400
+Yard,Nanometer,9.14E+08
+Yard,Mile,0.000568182
+Yard,Foot,3
+Yard,Inch,36
+Yard,Nautical mile,0.000493737
+Foot,Kilometer,0.0003048
+Foot,Meter,0.3048
+Foot,Centimeter,30.48
+Foot,Millimeter,304.8
+Foot,Micrometer,304800
+Foot,Nanometer,3.05E+08
+Foot,Mile,0.000189394
+Foot,Yard,0.333333
+Foot,Inch,12
+Foot,Nautical mile,0.000164579
+Inch,Kilometer,0.0000254
+Inch,Meter,0.0254
+Inch,Centimeter,2.54
+Inch,Millimeter,25.4
+Inch,Micrometer,25400
+Inch,Nanometer,2.54E+07
+Inch,Mile,1.58E-05
+Inch,Yard,0.0277778
+Inch,Foot,0.0833333
+Inch,Nautical mile,1.37E-05
+Nautical mile,Kilometer,1.852
+Nautical mile,Meter,1852
+Nautical mile,Centimeter,185200
+Nautical mile,Millimeter,1.85E+06
+Nautical mile,Micrometer,1.85E+09
+Nautical mile,Nanometer,1.85E+12
+Nautical mile,Mile,1.15078
+Nautical mile,Yard,2025.37
+Nautical mile,Foot,6076.12
+Nautical mile,Inch,72913.4

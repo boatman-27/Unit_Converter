@@ -1,0 +1,57 @@
+unit_from,unit_to,factor
+Square kilometer,Square meter,1000000
+Square kilometer,Square mile,0.386102
+Square kilometer,Square yard,1195990.05
+Square kilometer,Square foot,10763910.4
+Square kilometer,Square inch,1.55E+12
+Square kilometer,Hectare,100
+Square kilometer,Acre,247.105
+Square meter,Square kilometer,1.00E-06
+Square meter,Square mile,3.86E-07
+Square meter,Square yard,1.19599
+Square meter,Square foot,10.7639
+Square meter,Square inch,1550.0031
+Square meter,Hectare,0.0001
+Square meter,Acre,0.000247105
+Square mile,Square kilometer,2.58999
+Square mile,Square meter,2589988.11
+Square mile,Square yard,3097600
+Square mile,Square foot,27878400
+Square mile,Square inch,4.01E+12
+Square mile,Hectare,258.999
+Square mile,Acre,640
+Square yard,Square kilometer,8.36E-07
+Square yard,Square meter,0.836127
+Square yard,Square mile,3.23E-07
+Square yard,Square foot,9
+Square yard,Square inch,1296
+Square yard,Hectare,8.36E-05
+Square yard,Acre,0.000206612
+Square foot,Square kilometer,9.29E-08
+Square foot,Square meter,0.092903
+Square foot,Square mile,3.59E-08
+Square foot,Square yard,0.111111
+Square foot,Square inch,144
+Square foot,Hectare,9.29E-06
+Square foot,Acre,2.30E-05
+Square inch,Square kilometer,6.45E-13
+Square inch,Square meter,0.00064516
+Square inch,Square mile,2.49E-13
+Square inch,Square yard,0.000771605
+Square inch,Square foot,0.00694444
+Square inch,Hectare,6.45E-11
+Square inch,Acre,1.59E-10
+Hectare,Square kilometer,0.01
+Hectare,Square meter,10000
+Hectare,Square mile,0.00386102
+Hectare,Square yard,11959.9
+Hectare,Square foot,107639
+Hectare,Square inch,1.55E+08
+Hectare,Acre,2.47105
+Acre,Square kilometer,0.00404686
+Acre,Square meter,4046.86
+Acre,Square mile,0.0015625
+Acre,Square yard,4840
+Acre,Square foot,43560
+Acre,Square inch,6.27E+07
+Acre,Hectare,0.404686

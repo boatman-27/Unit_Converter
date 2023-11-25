@@ -1,0 +1,13 @@
+unit_from,unit_to,factor
+Hertz,Kilohertz,0.001
+Hertz,Megahertz,1.00E-06
+Hertz,Gigahertz,1.00E-09
+Kilohertz,Hertz,1000
+Kilohertz,Megahertz,0.001
+Kilohertz,Gigahertz,1.00E-06
+Megahertz,Hertz,1.00E+06
+Megahertz,Kilohertz,1000
+Megahertz,Gigahertz,0.001
+Gigahertz,Hertz,1.00E+09
+Gigahertz,Kilohertz,1.00E+06
+Gigahertz,Megahertz,1000
